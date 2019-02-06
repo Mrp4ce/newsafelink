@@ -19,7 +19,7 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*3)+ 1);
+var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
 if(x=="1"){xxx="/2018/11/safelink-adalah-sebuah-blog-yang-di.html"}
 if(x=="4"){xxx="/2019/01/tornadotornado-is-fast-rotating-column.html"}
